@@ -13,7 +13,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
   <a href="https://reactnative.dev/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/React_Native_Logo.png" alt="React Native" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
@@ -35,6 +35,7 @@
   </a>
 </p>
 🎯 And more...
+
 
 ## 📊 GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ellafsd&show_icons=true&theme=radical)
