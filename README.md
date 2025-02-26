@@ -1,7 +1,7 @@
 ## 🚀 About Me:
 - 💻 Software developer skilled in JavaScript, React, React Native, Java, HTML, CSS, and more.  
 - 🎯 Passionate about creating efficient, scalable solutions and contributing to innovative projects.  
-- 📱 Interested in  **software development**, **mobile development**, and **full-stack development**.  
+- 📱 Interested in  **software development**, **full-stack development** , and  **mobile development**.  
 - 🤝 Open to collaborations on exciting projects in **software development**.  
 
 ## 🛠️ Languages and Tools:
